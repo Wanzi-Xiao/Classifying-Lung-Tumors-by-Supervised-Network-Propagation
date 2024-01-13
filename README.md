@@ -10,5 +10,5 @@ In our project, we utilized a novel algorithm named Network-Based Supervised Str
 - Andy Yu
 
 <p align="center">
-  <img src="https://github.com/Wanzi-Xiao/Classifying-Lung-Tumors-by-Supervised-Network-Propagation/blob/main/figure/712poster.png" width="1200" height="800">
+  <img src="https://github.com/Wanzi-Xiao/Classifying-Lung-Tumors-by-Supervised-Network-Propagation/blob/main/figure/712poster.png" width="1200" height="600">
   </p>
